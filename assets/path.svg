@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500">
+<rect width="1600" height="500" fill="#06070A"/>
+<g font-family="monospace" text-anchor="middle">
+<g fill="#E8EDF2"><rect x="620" y="55" width="360" height="90" rx="8" fill="#12161C" stroke="#3FC7FF"/><text x="800" y="105" font-size="30">SOUMYO</text><text x="800" y="130" font-size="14" fill="#A07BFF">ENGINEERING TRACE</text></g>
+<path d="M800 145V220M800 220H350M800 220H1250M350 220V285M1250 220V285M800 220V285" stroke="#3FC7FF" stroke-width="2" stroke-dasharray="7 12">
+<animate attributeName="stroke-dashoffset" values="0;-95" dur="2.5s" repeatCount="indefinite"/>
+</path>
+<g>
+<rect x="170" y="285" width="360" height="110" rx="8" fill="#12161C" stroke="#3FC7FF"/><text x="350" y="335" fill="#E8EDF2" font-size="22">ENTERPRISE</text><text x="350" y="365" fill="#A07BFF" font-size="14">SALESFORCE • AUTOMATION</text>
+<rect x="620" y="285" width="360" height="110" rx="8" fill="#12161C" stroke="#A07BFF"/><text x="800" y="335" fill="#E8EDF2" font-size="22">SYSTEMS</text><text x="800" y="365" fill="#3FC7FF" font-size="14">RUST • DISTRIBUTED</text>
+<rect x="1070" y="285" width="360" height="110" rx="8" fill="#12161C" stroke="#3FC7FF"/><text x="1250" y="335" fill="#E8EDF2" font-size="22">RESEARCH</text><text x="1250" y="365" fill="#A07BFF" font-size="14">AI • SECURITY • PATENTS</text>
+</g></g>
+</svg>

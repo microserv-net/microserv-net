@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 560">
+<defs><filter id="g"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1600" height="560" fill="#06070A"/>
+<g font-family="monospace">
+<text x="70" y="65" fill="#3FC7FF" font-size="20">MUON // PARTICLE TRACK</text>
+<path d="M-40 100 C250 120 330 430 650 300 S1110 70 1650 420" fill="none" stroke="#3FC7FF" stroke-width="2" opacity=".4"/>
+<path d="M-40 100 C250 120 330 430 650 300 S1110 70 1650 420" fill="none" stroke="#3FC7FF" stroke-width="3" stroke-dasharray="10 24" filter="url(#g)"><animate attributeName="stroke-dashoffset" values="0;-170" dur="2.4s" repeatCount="indefinite"/></path>
+<circle r="10" fill="#3FC7FF" filter="url(#g)"><animateMotion dur="6s" repeatCount="indefinite" path="M-40 100 C250 120 330 430 650 300 S1110 70 1650 420"/></circle>
+<g fill="#12161C" stroke="#3FC7FF">
+<rect x="120" y="360" width="210" height="100" rx="8"/><rect x="430" y="360" width="210" height="100" rx="8"/><rect x="740" y="360" width="210" height="100" rx="8"/><rect x="1050" y="360" width="210" height="100" rx="8"/><rect x="1360" y="360" width="160" height="100" rx="8"/>
+</g>
+<g fill="#E8EDF2" text-anchor="middle"><text x="225" y="410">REPO</text><text x="535" y="410">ARCHITECT</text><text x="845" y="410">EXECUTOR</text><text x="1155" y="410">VERIFY</text><text x="1440" y="410">TRACE</text></g>
+<g fill="#A07BFF" font-size="13" text-anchor="middle"><text x="225" y="440">CONTEXT</text><text x="535" y="440">PLAN</text><text x="845" y="440">CHANGE</text><text x="1155" y="440">EVIDENCE</text><text x="1440" y="440">MEMORY</text></g>
+</g></svg>

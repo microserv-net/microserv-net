@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420">
+<rect width="1600" height="420" fill="#06070A"/>
+<g font-family="monospace">
+<text x="70" y="70" fill="#3FC7FF" font-size="20">FRIDAY // EVOLUTION TRACE</text>
+<path d="M160 210H1440" stroke="#12161C" stroke-width="6"/>
+<path d="M160 210H1440" stroke="#3FC7FF" stroke-width="2" stroke-dasharray="9 16"><animate attributeName="stroke-dashoffset" values="0;-100" dur="2s" repeatCount="indefinite"/></path>
+<g fill="#12161C" stroke="#3FC7FF" stroke-width="2">
+<circle cx="230" cy="210" r="46"/><circle cx="610" cy="210" r="46"/><circle cx="990" cy="210" r="46"/><circle cx="1370" cy="210" r="46"/>
+</g>
+<g fill="#E8EDF2" text-anchor="middle">
+<text x="230" y="215" font-size="18">01</text><text x="610" y="215" font-size="18">02</text><text x="990" y="215" font-size="18">03</text><text x="1370" y="215" font-size="18">04</text>
+</g>
+<g text-anchor="middle"><text x="230" y="300" fill="#A07BFF">VOSK + RASA</text><text x="610" y="300" fill="#A07BFF">REGEX ENGINE</text><text x="990" y="300" fill="#A07BFF">WHISPER + VOICE</text><text x="1370" y="300" fill="#3FC7FF">LOCAL LLM + TOOLS</text></g>
+<circle fill="#3FC7FF" r="8"><animateMotion dur="5s" repeatCount="indefinite" path="M160 210H1440"/></circle>
+</g></svg>

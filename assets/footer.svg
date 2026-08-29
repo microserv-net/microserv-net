@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 180">
+<rect width="1600" height="180" fill="#06070A"/>
+<path d="M0 120 C280 30 520 190 800 90 S1300 20 1600 100" fill="none" stroke="#3FC7FF" stroke-width="2" stroke-dasharray="8 20">
+<animate attributeName="stroke-dashoffset" values="0;-150" dur="3s" repeatCount="indefinite"/>
+</path>
+<text x="800" y="90" fill="#E8EDF2" font-family="monospace" font-size="20" text-anchor="middle">TRACE CONTINUES BEYOND THIS VIEWPORT</text>
+</svg>

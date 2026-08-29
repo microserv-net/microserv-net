@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 360">
+<rect width="1600" height="360" fill="#06070A"/>
+<g font-family="monospace" text-anchor="middle">
+<text x="800" y="70" fill="#A07BFF" font-size="19">RESEARCH OUTPUT // PATENT-PENDING</text>
+<g stroke="#3FC7FF" fill="#12161C">
+<rect x="170" y="120" width="520" height="150" rx="8"/><rect x="910" y="120" width="520" height="150" rx="8"/>
+</g>
+<g fill="#E8EDF2"><text x="430" y="180" font-size="25">DATA LEAK PROTECTION</text><text x="1170" y="180" font-size="25">ANTI-RANSOMWARE</text></g>
+<g fill="#A07BFF" font-size="16"><text x="430" y="220">202541087012</text><text x="1170" y="220">202541076811</text></g>
+<path d="M690 195H910" stroke="#3FC7FF" stroke-width="2" stroke-dasharray="8 12"><animate attributeName="stroke-dashoffset" values="0;-80" dur="1.8s" repeatCount="indefinite"/></path>
+<circle cx="800" cy="195" r="7" fill="#3FC7FF"><animate attributeName="r" values="4;11;4" dur="1s" repeatCount="indefinite"/></circle>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 390">
+<defs><filter id="g"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1600" height="390" rx="8" fill="#06070A"/>
+<g font-family="monospace" fill="#E8EDF2">
+<text x="65" y="65" fill="#3FC7FF" font-size="18">BOOT SEQUENCE / ENGINEERING PROFILE</text>
+<text x="65" y="100" font-size="14" opacity=".7">[01] ENTERPRISE SOFTWARE</text>
+<text x="65" y="140" font-size="14" opacity=".7">[02] RUST SYSTEMS</text>
+<text x="65" y="180" font-size="14" opacity=".7">[03] AI ASSISTANTS</text>
+<text x="65" y="220" font-size="14" opacity=".7">[04] DISTRIBUTED INFRASTRUCTURE</text>
+<text x="65" y="260" font-size="14" opacity=".7">[05] CYBERSECURITY RESEARCH</text>
+<text x="65" y="300" font-size="14" opacity=".7">[06] OPEN SOURCE EXPERIMENTS</text>
+</g>
+<path d="M480 80H1500" stroke="#12161C" stroke-width="8"/>
+<path d="M480 80H1500" stroke="#3FC7FF" stroke-width="3" stroke-dasharray="10 20" filter="url(#g)">
+<animate attributeName="stroke-dashoffset" values="0;-120" dur="2s" repeatCount="indefinite"/>
+</path>
+<g fill="#3FC7FF" filter="url(#g)">
+<circle cx="650" cy="80" r="7"><animate attributeName="r" values="5;10;5" dur="1.4s" repeatCount="indefinite"/></circle>
+<circle cx="920" cy="80" r="7"><animate attributeName="r" values="5;10;5" dur="1.4s" begin=".3s" repeatCount="indefinite"/></circle>
+<circle cx="1190" cy="80" r="7"><animate attributeName="r" values="5;10;5" dur="1.4s" begin=".6s" repeatCount="indefinite"/></circle>
+<circle cx="1460" cy="80" r="7"><animate attributeName="r" values="5;10;5" dur="1.4s" begin=".9s" repeatCount="indefinite"/></circle>
+</g>
+<text x="480" y="155" fill="#A07BFF" font-family="monospace" font-size="16">SIGNAL LOCKED → BUILDING</text>
+</svg>

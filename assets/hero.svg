@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 500" role="img">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1"><stop stop-color="#06070A"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#06070A"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="500" fill="url(#bg)"/>
+<g opacity=".55" stroke="#3FC7FF" fill="none" filter="url(#glow)">
+ <path d="M-100 390 C220 70 360 470 610 230 S1030 70 1700 310" stroke-width="2">
+   <animate attributeName="stroke-dasharray" values="0 1800;1800 0" dur="4s" repeatCount="indefinite"/>
+ </path>
+</g>
+<g fill="#3FC7FF" filter="url(#glow)">
+ <circle r="4"><animateMotion dur="5s" repeatCount="indefinite" path="M-100 390 C220 70 360 470 610 230 S1030 70 1700 310"/></circle>
+</g>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+ <text x="800" y="195" fill="#3FC7FF" font-family="monospace" font-size="15" letter-spacing="8" opacity="0">ENGINEERING TRACE <animate attributeName="opacity" values="0;1;1" dur="2s" fill="freeze"/></text>
+ <text x="800" y="295" fill="#E8EDF2" font-size="68" font-weight="800" letter-spacing="6">SOUMYO DEEP GUPTA
+   <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
+   <animateTransform attributeName="transform" type="translate" values="0 -25;0 0" dur="1.5s" fill="freeze"/>
+ </text>
+ <text x="800" y="345" fill="#A07BFF" font-family="monospace" font-size="18" letter-spacing="4">SOFTWARE ENGINEER // RUST // AI // SYSTEMS</text>
+</g>
+<g stroke="#3FC7FF" opacity=".35">
+ <path d="M0 35H420"/><path d="M1180 465H1600"/>
+</g>
+</svg>
